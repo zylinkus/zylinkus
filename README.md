@@ -4,6 +4,11 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zylinkus&theme=github)
 
+<a href="https://github.com/zylinkus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zylinkus&show_icons=true&theme=buefy&count_private=true" alt="zylinkus's github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zylinkus&theme=buefy&layout=compact" alt="zylinkus's github top languages" /> 
+</a>
+
 
 <!--
 **zylinkus/zylinkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
